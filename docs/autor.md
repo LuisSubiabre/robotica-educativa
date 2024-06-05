@@ -1,0 +1,6 @@
+# El autor
+Hola, soy Luis Subiabre, profesor de robótica educativa y desarrollador web full stack. Me enorgullece ser tu guía en el fascinante mundo de la robótica y la programación. Se que muchas veces, la robótica y la programación pueden parecer difíciles de entender, pero no te preocupes, estoy aquí para ayudarte a comenzar tu viaje. Mi sitio web es un espacio donde podrás encontrar tutoriales, recursos y apoyo para aprender y mejorar tus habilidades. 
+
+Actualmente me dedico a enseñar a estudiantes de 9 años en adelante a construir y programar robots utilizando herramientas como mBot, EV3, micro:bit entre otros. Estos robots nos permiten explorar conceptos como la programación, la física y la matemática de manera interactiva y divertida, además de desarrollar habilidades tecnológicas y científicas necesarias para enfrentar los desafíos del siglo XXI
+
+También enseño programación a mis estudiantes, mediante Scratch y programación web. Estas herramientas nos permiten crear proyectos innovadores y resolver problemas de manera creativa. Mi enfoque es fomentar el pensamiento computacional, la resolución de problemas y la colaboración entre los estudiantes.

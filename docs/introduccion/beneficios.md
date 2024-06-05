@@ -1,6 +1,6 @@
-## ¿Cuáles son los principales beneficios de la robótica educativa?
+# ¿Cuáles son los principales beneficios de la robótica educativa?
 
-Los principales beneficios de la robótica educativa son:
+## Los principales beneficios de la robótica educativa son:
 
 1. **Desarrollo de habilidades**: La robótica educativa ayuda a los estudiantes a desarrollar habilidades del siglo XXI, como la programación, el pensamiento computacional, el trabajo en equipo, el pensamiento crítico, la colaboración y la creatividad [1][3][4].
 2. **Confianza en sí mismos**: Al trabajar en equipo y aprender a través de errores, los estudiantes desarrollan confianza en sus habilidades y capacidades, lo que les permite superar desafíos y enfrentar situaciones con mayor seguridad [1][3].
